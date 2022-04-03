@@ -1,4 +1,4 @@
-GitHub Pages : https://nikitaosovskiy.github.io/LostShirt/index.html 
+GitHub Pages : https://naelxd.github.io/LostShirt/index.html
 
 
-Second Page: https://nikitaosovskiy.github.io/LostShirt/product.html 
+Second Page: https://naelxd.github.io/LostShirt/product.html 
